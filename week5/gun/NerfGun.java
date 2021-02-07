@@ -1,6 +1,6 @@
 // 632115503 JEONGMIN KIM
 
-package gun;
+package week5.gun;
 
 public class NerfGun {
     private int numOfAmmunition = 0;

@@ -1,4 +1,4 @@
-package circle;
+package week5.circle;
 
 public class MainCircle {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 // 632115503 JEONGMIN KIM
 
-package gun;
+package week5.gun;
 
 public class MainApplication {
     public static void main(String[] args) {
